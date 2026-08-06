@@ -61,4 +61,4 @@ python cs12_gpt.py
 ## 📄 Author & License
 
 Created by **Adithya V** for CBSE Computer Science students.
-Licensed under the [MIT License](LICENSE).
+Licensed under the [MIT License](./LICENSE).
