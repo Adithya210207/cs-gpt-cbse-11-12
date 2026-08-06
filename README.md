@@ -60,7 +60,7 @@ python cs12_gpt.py
 
 ## 📄 Copyright & Terms of Use
 
-**© 2025–2026 Adithya V. All Rights Reserved.**
+**© 2026 Adithya V. All Rights Reserved.**
 
 This repository is published for portfolio, demonstration, and educational viewing purposes only. You are welcome to view the source code to understand the implementation.
 
